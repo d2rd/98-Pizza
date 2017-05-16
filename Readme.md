@@ -57,37 +57,37 @@ Before diving in, it is **strongly recommended** to review the video and code fr
 **Product/User Stories**
 
 Can track all **customers** and any relevant customer information, including but not limited to...
-- [ ] customer ID
-- [ ] name
-- [ ] username/login details
-- [ ] delivery address(es)
-- [ ] phone number(s)
-- [ ] payment methods on file (e.g., cash, credit, check - if credit, then the card number should also be stored)
+- [x] customer ID
+- [x] name
+- [x] username/login details
+- [x] delivery address(es)
+- [x] phone number(s)
+- [x] payment methods on file (e.g., cash, credit, check - if credit, then the card number should also be stored)
 
 Preferences & ingredients
 - [ ] Can track each customer's pizza **preferences**
-- [ ] Can track the **ingredients** that comprise each of these preferences (e.g., onions, ham, pineapple, anchovies, bacon, etc.)
+- [x] Can track the **ingredients** that comprise each of these preferences (e.g., onions, ham, pineapple, anchovies, bacon, etc.)
 
 Can track standard **drinks**, including...
-- [ ] a product ID
-- [ ] drink description
-- [ ] manufacturer
-- [ ] supplier
-- [ ] price
+- [x] a product ID
+- [x] drink description
+- [x] manufacturer
+- [x] supplier
+- [x] price
 
 Can track **pizza** data:
-- [ ] sizes (small, medium, large, extra large)
-- [ ] types (thick or thin crust)
-- [ ] **ingredients** (pepperoni, sausage, mushrooms, onions, cheese, etc.)
-- [ ] price data for these pizza sizes and ingredients
-- [ ] happy hour price discounts
+- [x] sizes (small, medium, large, extra large)
+- [x] types (thick or thin crust)
+- [x] **ingredients** (pepperoni, sausage, mushrooms, onions, cheese, etc.)
+- [x] price data for these pizza sizes and ingredients
+- [x] happy hour price discounts
 
 **Other**
-- [ ] The artifact is a GitHub repo
-- [ ] SQL files are well formatted and readable.
+- [x] The artifact is a GitHub repo
+- [x] SQL files are well formatted and readable.
 - [ ] All the SQL keywords are capitalized.
-- [ ] The E-R diagram minimizes data redundancy.
-- [ ] Table names are singular, not plural.
+- [x] The E-R diagram minimizes data redundancy.
+- [x] Table names are singular, not plural.
 - [ ] Variables, functions, files, etc. have appropriate and meaningful names.
 - [ ] Code is well organized into a meaningful file structure.
 - [ ] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
