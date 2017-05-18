@@ -1,0 +1,65 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  font-family: serif;
+}
+
+h2 {
+  font-family: sans-serif;
+}
+
+h3 {
+  font-family: sans-serif;
+}
+
+h4 {
+  font-family: sans-serif;
+}
+
+form {
+  border: 2px solid black;
+  font-family: sans-serif;
+  color: black;
+}
+
+nav {
+  list-style: none;
+  display: inline-block;
+  background-color: lightgrey;
+}
+
+ul {
+  list-style: none;
+  display: inline-block;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+
+#special-items {
+  display: inline-block;
+}
+
+#menu-items {
+  display: inline-block;
+}
+
+#order-history {
+  display: inline-block;
+}
+
+.special-items {
+  display: inline-block;
+}
+
+.menu-items {
+  display: inline-block;
+}
+
+.order-history {
+  display: inline-block;
+}
