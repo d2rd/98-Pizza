@@ -1,0 +1,22 @@
+{
+  "name": "98-pizza",
+  "version": "1.0.0",
+  "description": "Pizza Database",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d2rd/98-Pizza.git"
+  },
+  "author": "john ware",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d2rd/98-Pizza/issues"
+  },
+  "homepage": "https://github.com/d2rd/98-Pizza#readme",
+  "dependencies": {
+    "mysql": "^2.13.0"
+  }
+}
