@@ -65,7 +65,7 @@ Can track all **customers** and any relevant customer information, including but
 - [x] payment methods on file (e.g., cash, credit, check - if credit, then the card number should also be stored)
 
 Preferences & ingredients
-- [ ] Can track each customer's pizza **preferences**
+- [x] Can track each customer's pizza **preferences**
 - [x] Can track the **ingredients** that comprise each of these preferences (e.g., onions, ham, pineapple, anchovies, bacon, etc.)
 
 Can track standard **drinks**, including...
@@ -85,18 +85,18 @@ Can track **pizza** data:
 **Other**
 - [x] The artifact is a GitHub repo
 - [x] SQL files are well formatted and readable.
-- [ ] All the SQL keywords are capitalized.
+- [x] All the SQL keywords are capitalized.
 - [x] The E-R diagram minimizes data redundancy.
 - [x] Table names are singular, not plural.
-- [ ] Variables, functions, files, etc. have appropriate and meaningful names.
-- [ ] Code is well organized into a meaningful file structure.
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
+- [x] Variables, functions, files, etc. have appropriate and meaningful names.
+- [x] Code is well organized into a meaningful file structure.
+- [x] The artifact produced is properly licensed, preferably with the [MIT license](https://opensource.org/licenses/MIT).
 
 There are commands provided (using `npm run` and/or with executable scripts in a `bin/` directory) to:
-- [ ] Create the database
-- [ ] Drop the database
-- [ ] Insert sample/seed data to the database
-- [ ] Start the web server
+- [x] Create the database
+- [x] Drop the database
+- [x] Insert sample/seed data to the database
+- [x] Start the web server
 
 HINT: if you see an item in bold, you may want to consider creating a table for that item. :)
 
@@ -106,24 +106,24 @@ Please feel free to adapt the content of the data to your personal preferences o
 
 ### Stretch
 
-- [ ] Maintains a history of **transactions** of all purchases including price, payment method, and delivery date
-- [ ] Supports an interface for delivery **drivers**
-- [ ] Delivery interface tracks the addresses each driver delivers to
-- [ ] Delivery interface tracks the dates/times of delivery
-- [ ] Delivery interface tracks money collected (including tips)
-- [ ] Supports calculating the proper sales tax (the pizza joint located at the intersection of the four corners of the US, so you might have to support sales taxes for Colorado, Arizona, New Mexico and Utah)
-- [ ] API documentation is included in the repo with details on each route, parameters/headers needed, and the structure of returned data
-- [ ] A simple web user interface exists that allows users CRUD the data in the specification (this interface can be as simple as a checkbox that "orders" a pizza by creating a DB record in one of your tables)
-- [ ] Implements a testing suite (mocha/chai)
+- [x] Maintains a history of **transactions** of all purchases including price, payment method, and delivery date
+- [x] Supports an interface for delivery **drivers**
+- [x] Delivery interface tracks the addresses each driver delivers to
+- [x] Delivery interface tracks the dates/times of delivery
+- [x] Delivery interface tracks money collected (including tips)
+- [x] Supports calculating the proper sales tax (the pizza joint located at the intersection of the four corners of the US, so you might have to support sales taxes for Colorado, Arizona, New Mexico and Utah)
+- [x] API documentation is included in the repo with details on each route, parameters/headers needed, and the structure of returned data
+- [x] A simple web user interface exists that allows users CRUD the data in the specification (this interface can be as simple as a checkbox that "orders" a pizza by creating a DB record in one of your tables)
+- [x] Implements a testing suite (mocha/chai)
 
 **Entity Relationship Diagram**
 
-- [ ] The E-R diagram supports all the product/user stories
-- [ ] The E-R diagram indicates whether or not each relationship in the schema is is one to one, one to many, or many to many
-- [ ] The E-R diagram contains a list of attributes for each entity and relationship
-- [ ] The E-R diagram contains the SQL data types of each attribute in the schema
-- [ ] The E-R diagram notes any foreign or primary keys in each table in the schema
-- [ ] The E-R diagram is included in the artifact (as a `.png` or some other easily viewable format)
+- [x] The E-R diagram supports all the product/user stories
+- [x] The E-R diagram indicates whether or not each relationship in the schema is is one to one, one to many, or many to many
+- [x] The E-R diagram contains a list of attributes for each entity and relationship
+- [x] The E-R diagram contains the SQL data types of each attribute in the schema
+- [x] The E-R diagram notes any foreign or primary keys in each table in the schema
+- [x] The E-R diagram is included in the artifact (as a `.png` or some other easily viewable format)
 
 ## Resources
 
