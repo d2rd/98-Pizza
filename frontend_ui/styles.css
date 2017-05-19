@@ -4,6 +4,7 @@ body {
 
 h1 {
   font-family: serif;
+  color: blue;
 }
 
 h2 {
@@ -12,6 +13,7 @@ h2 {
 
 h3 {
   font-family: sans-serif;
+  float: left;
 }
 
 h4 {
@@ -19,25 +21,31 @@ h4 {
 }
 
 form {
-  border: 2px solid black;
+  border: 1px solid black;
   font-family: sans-serif;
   color: black;
+  padding: 7px;
 }
 
 nav {
   list-style: none;
   display: inline-block;
   background-color: lightgrey;
+  color: black;
+  align-content: center;
 }
 
 ul {
   list-style: none;
   display: inline-block;
+  background-color: lightgrey;
 }
 
 li {
   list-style: none;
   display: inline-block;
+  background-color: lightgrey;
+  float: left;
 }
 
 #special-items {
@@ -62,4 +70,10 @@ li {
 
 .order-history {
   display: inline-block;
+}
+
+.profile {
+  float: right;
+  font-family: sans-serif;
+  padding-right: 5px;
 }
