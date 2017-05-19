@@ -1,10 +1,12 @@
 body {
   background-color: white;
+  margin-left: 30px;
 }
 
 h1 {
-  font-family: serif;
+  font-family: 'Georgia' serif;
   color: blue;
+  padding-right: 750px;
 }
 
 h2 {
@@ -13,7 +15,6 @@ h2 {
 
 h3 {
   font-family: sans-serif;
-  float: left;
 }
 
 h4 {
@@ -32,20 +33,21 @@ nav {
   display: inline-block;
   background-color: lightgrey;
   color: black;
-  align-content: center;
+  font-family: sans-serif;
 }
 
 ul {
   list-style: none;
-  display: inline-block;
-  background-color: lightgrey;
+  display: flex;
+  float: right;
 }
 
 li {
   list-style: none;
   display: inline-block;
-  background-color: lightgrey;
   float: left;
+  padding-right: 6px;
+  background-color: lightgrey;
 }
 
 #special-items {
@@ -75,5 +77,13 @@ li {
 .profile {
   float: right;
   font-family: sans-serif;
-  padding-right: 5px;
+  padding-right: 10px;
+  display: inline-block;
+}
+
+.head {
+  display: inline-block;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
