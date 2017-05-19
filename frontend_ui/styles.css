@@ -4,13 +4,15 @@ body {
 }
 
 h1 {
-  font-family: 'Georgia' serif;
-  color: blue;
-  padding-right: 750px;
+  font-family: Georgia, serif;
+  color: darkred;
+  padding-right: 700px;
+  padding-left: 45px;
 }
 
 h2 {
   font-family: sans-serif;
+  padding-left: 10px;
 }
 
 h3 {
@@ -31,9 +33,9 @@ form {
 nav {
   list-style: none;
   display: inline-block;
-  background-color: lightgrey;
   color: black;
   font-family: sans-serif;
+  background-color: lightgrey;
 }
 
 ul {
@@ -46,8 +48,7 @@ li {
   list-style: none;
   display: inline-block;
   float: left;
-  padding-right: 6px;
-  background-color: lightgrey;
+  padding-right: 20px;
 }
 
 #special-items {
@@ -64,21 +65,27 @@ li {
 
 .special-items {
   display: inline-block;
+  padding-right: 30px;
+  font-family: sans-serif;
 }
 
 .menu-items {
   display: inline-block;
+  padding-right: 30px;
 }
 
 .order-history {
   display: inline-block;
+  padding-right: 30px;
 }
 
 .profile {
   float: right;
   font-family: sans-serif;
-  padding-right: 10px;
+  padding-left: 20px;
   display: inline-block;
+  color: white;
+  font-weight: bold;
 }
 
 .head {
@@ -86,4 +93,5 @@ li {
   display: inline-flex;
   flex-direction: row;
   justify-content: space-between;
+  background-color: black;
 }
