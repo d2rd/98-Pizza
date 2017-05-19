@@ -1,0 +1,34 @@
+CREATE TABLE creditCard (
+    `idcreditCard` INT,
+    `cardCompany` VARCHAR(11) CHARACTER SET utf8,
+    `cardIssuer` VARCHAR(15) CHARACTER SET utf8,
+    `cardNumber` INT,
+    `cvvNumber` INT,
+    `nameOnCard` VARCHAR(1) CHARACTER SET utf8,
+    `billStreet` VARCHAR(1) CHARACTER SET utf8,
+    `billCity` VARCHAR(14) CHARACTER SET utf8,
+    `billState` VARCHAR(2) CHARACTER SET utf8,
+    `billZip` INT
+);
+INSERT INTO creditCard VALUES (1,'Mastercard','Chase Bank',72126477272,441,'?','?','Santa Fe','NM',87505);
+INSERT INTO creditCard VALUES (2,'Diners Club','Bank of America',12127397312,391,'?','?','Salt Lake City','UT',84101);
+INSERT INTO creditCard VALUES (3,'AMEX','Wells Fargo',78128407478,393,'?','?','Mesa','AZ',84206);
+INSERT INTO creditCard VALUES (4,'Visa','Patelco CU',13103417513,395,'?','?','Vail','CO',81657);
+INSERT INTO creditCard VALUES (5,'Discover','Wells Fargo',78104487678,397,'?','?','Santa Fe','NM',87505);
+INSERT INTO creditCard VALUES (6,'Mastercard','Bank of America',14105497714,399,'?','?','Salt Lake City','UT',84101);
+INSERT INTO creditCard VALUES (7,'Mastercard','Wells Fargo',15106507815,401,'?','?','Mesa','AZ',84206);
+INSERT INTO creditCard VALUES (8,'Mastercard','Bank of America',78107517978,407,'?','?','Vail','CO',81657);
+INSERT INTO creditCard VALUES (9,'Discover','Wells Fargo',16108766816,409,'?','?','Santa Fe','NM',87505);
+INSERT INTO creditCard VALUES (10,'Visa','Bank of America',72109776972,407,'?','?','Salt Lake City','UT',84101);
+INSERT INTO creditCard VALUES (11,'AMEX','Patelco CU',17110787017,409,'?','?','Mesa','AZ',84206);
+INSERT INTO creditCard VALUES (12,'Discover','Bank of America',78111797178,411,'?','?','Vail','CO',81657);
+INSERT INTO creditCard VALUES (13,'Mastercard','Bank of America',18112687218,413,'?','?','Santa Fe','NM',87505);
+INSERT INTO creditCard VALUES (14,'Visa','Wells Fargo',19113697319,415,'?','?','Salt Lake City','UT',84101);
+INSERT INTO creditCard VALUES (15,'AMEX','Bank of America',45114117445,417,'?','?','Mesa','AZ',84206);
+INSERT INTO creditCard VALUES (16,'Discover','Bank of America',46115167546,419,'?','?','Vail','CO',81657);
+INSERT INTO creditCard VALUES (17,'Mastercard','Wells Fargo',47116127647,421,'?','?','Santa Fe','NM',87505);
+INSERT INTO creditCard VALUES (18,'Diners Club','Patelco CU',48117187748,421,'?','?','Orem','UT',84097);
+INSERT INTO creditCard VALUES (19,'AMEX','Wells Fargo',49118137849,407,'?','?','Mesa','AZ',84206);
+INSERT INTO creditCard VALUES (20,'Visa','Bank of America',50119177950,409,'?','?','Vail','CO',81657);
+INSERT INTO creditCard VALUES (21,'Mastercard','Wells Fargo',51120148051,411,'?','?','Santa Fe','NM',87505);
+INSERT INTO creditCard VALUES (22,'Mastercard','Wells Fargo',52121158152,413,'?','?','Salt Lake City','UT',84101);

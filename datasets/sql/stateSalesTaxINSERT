@@ -1,0 +1,7 @@
+INSERT INTO PizzaPicadilly.stateSalesTax ( idstateTax,stateName,stateAbbeviation,stateTaxRate,localTaxRate,combinedTaxRate,maxLocalTaxRate ) VALUES ( 1,' Arizona','AZ',6,5,5,3 );
+
+INSERT INTO PizzaPicadilly.stateSalesTax ( idstateTax,stateName,stateAbbeviation,stateTaxRate,localTaxRate,combinedTaxRate,maxLocalTaxRate ) VALUES ( 2,'Colorado','CO',9,6,5,3 );
+
+INSERT INTO PizzaPicadilly.stateSalesTax ( idstateTax,stateName,stateAbbeviation,stateTaxRate,localTaxRate,combinedTaxRate,maxLocalTaxRate ) VALUES ( 3,' New Mexico','NM',5,3,5,5 );
+
+INSERT INTO PizzaPicadilly.stateSalesTax ( idstateTax,stateName,stateAbbeviation,stateTaxRate,localTaxRate,combinedTaxRate,maxLocalTaxRate ) VALUES ( 4,'Utah','UT',5,1,6,5 );
