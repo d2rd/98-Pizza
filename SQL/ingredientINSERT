@@ -1,0 +1,69 @@
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 1,'Roma Tomatoes ','T2743O56122','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 2,'Red Onions ','O2844S57123','$0.10 ',4,6,8,0,2 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 3,'Spinach ','S2945B58124','$0.10 ',4,6,8,0,2 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 4,'Broccoli ','B1146P71125','$0.10 ',4,6,8,0,2 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 5,'Pineapple ','P7247H72126','$0.10 ',4,6,8,0,3 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 6,'Jalapeno Peppers ','P1239S73127','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 7,'Kalamata Olives ','O7840F74128','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 8,'Fresh Mushrooms ','V1341P75103','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 9,'Green Olives ','O7848T76104','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 0,'Green Peppers ','P1449Z77105','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 1,'Roasted Garlic ','V1550G78106','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 2,'Hot Banana Peppers ','P7851O79107','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 3,'Roasted Red Peppers ','P1676M68108','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 4,'Sun Dried Tomatoes ','T7277O69109','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 5,'Grilled Zucchini ','Z1778G70110','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 6,'Potato slice ','R7879O71111','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 7,'Caramelized Onions ','O1868M72112','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 8,'Cilantro ','H1969O73113','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 9,'Tomato Sauce','V4511G74114','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 0,'Flour_White','F4616P75115','$0.10 ',4,6,8,0,4 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 1,'Flour_Wheat','F4712P76116','$0.10 ',4,6,8,0,4 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 2,'Flour_Gluten_Free','F4818T77117','$0.10 ',4,6,8,0,4 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 3,'Flour_Cornmeal','F4913Z78118','$0.10 ',4,6,8,0,4 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 4,'Flour_Multigrain','F5017H79119','$0.10 ',4,6,8,0,4 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 5,'Carmelized Carrots','R5114S80120','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 6,'Eggplant','R5215F81121','$0.10 ',4,6,8,0,2 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 7,'Yak chips','M7972F29104','$0.10 ',4,6,8,0,3 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 8,'Buffalo Loins','M6812P11105','$0.10 ',4,6,8,0,3 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 9,'Lamb','C6978T72106','$0.10 ',4,6,8,0,3 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 0,'Shrimp','S1113Z12113','$0.10 ',4,6,8,0,3 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 1,'Salmon','S1678G78114','$0.10 ',4,6,8,0,3 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 2,'Prawns','S1214O13115','$0.10 ',4,6,8,0,3 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 3,'Steak','M1816M78116','$0.10 ',4,6,8,0,3 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 4,'Baked Beans','L1672T45117','$0.10 ',4,6,8,0,1 );
+
+INSERT INTO PizzaPicadilly.ingredient ( idIngredient,ingredientName,productSKU,costPerOz,ozInSmall,ozInMedium,ozInLarge,ozInExtraLarge,idSupplier ) VALUES ( 5,'Kiwi','C7217Z46118','$0.10 ',4,6,8,0,2 );

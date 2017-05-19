@@ -1,0 +1,47 @@
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Santa Fe','NM',5,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Salt Lake City','UT',1,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Mesa','AZ',6,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Vail','CO',7,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Santa Fe','NM',5,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Salt Lake City','UT',1,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Mesa','AZ',6,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Manufacturer','?','?','Vail','CO',7,4,'','','','','www.centralrestaurant.com/' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Santa Fe','NM',5,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Salt Lake City','UT',1,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Mesa','AZ',6,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Vail','CO',7,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Santa Fe','NM',5,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Manufacturer','?','?','Salt Lake City','UT',1,4,'','','','','littleladyfoods.com' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Mesa','AZ',6,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Vail','CO',7,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Santa Fe','NM',5,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Customer','?','?','Orem','UT',7,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Supplier','?','?','Mesa','AZ',6,4,'','','','','www.pmq.com/Fall-2002/Pizza-Industry-Food-Distributor' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Supplier','?','?','Vail','CO',7,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Supplier','?','?','Santa Fe','NM',5,4,'','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','Supplier','?','?','Salt Lake City','UT',1,4,'','','','','littleladyfoods.com' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','','','','','','','','','','','','' );
+
+INSERT INTO PizzaPicadilly.contact ( idContact,contactType,contactStreet1,contactStreet2,contactCity,contactState,contactZip,contactPhone1,contactPhone2,contactEmail,idCustomer,idSupplier,website ) VALUES ( '','','','','','','','','','','','','' );

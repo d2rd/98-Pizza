@@ -1,0 +1,17 @@
+INSERT INTO PizzaPicadilly.pieType ( idPieType,pieTypeName,pieTypeDescription ) VALUES ( 1,'Standard','Standard' );
+
+INSERT INTO PizzaPicadilly.pieType ( idPieType,pieTypeName,pieTypeDescription ) VALUES ( 2,'Custom','Custom' );
+
+INSERT INTO PizzaPicadilly.pieType ( idPieType,pieTypeName,pieTypeDescription ) VALUES ( 3,'Thin Crust','Thin and light crust. Less filling.' );
+
+INSERT INTO PizzaPicadilly.pieType ( idPieType,pieTypeName,pieTypeDescription ) VALUES ( 4,'Deep Dish','Deep Dish has more of the good stuff inside.' );
+
+INSERT INTO PizzaPicadilly.pieType ( idPieType,pieTypeName,pieTypeDescription ) VALUES ( 5,'GlutenFree','GlutenFree' );
+
+INSERT INTO PizzaPicadilly.pieType ( idPieType,pieTypeName,pieTypeDescription ) VALUES ( 6,'WholeWheat','Whole wheat ' );
+
+INSERT INTO PizzaPicadilly.pieType ( idPieType,pieTypeName,pieTypeDescription ) VALUES ( 7,'Cornmeal Crust','A special treat using cornmeal instead of flour.' );
+
+INSERT INTO PizzaPicadilly.pieType ( idPieType,pieTypeName,pieTypeDescription ) VALUES ( 8,'Multigrain','Our unique recipe using multi-grain flour.' );
+
+INSERT INTO PizzaPicadilly.pieType ( idPieType,pieTypeName,pieTypeDescription ) VALUES ( 9,'Stuffed','Goodies stuffed in the crust' );
