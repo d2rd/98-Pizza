@@ -1,0 +1,7 @@
+INSERT INTO PizzaPicadilly.productSupplier ( idSupplier,supplierName,idContact ) VALUES ( 1,'Acme Pizza Supplies','' );
+
+INSERT INTO PizzaPicadilly.productSupplier ( idSupplier,supplierName,idContact ) VALUES ( 2,'Farmer Dante Fresh Produce','' );
+
+INSERT INTO PizzaPicadilly.productSupplier ( idSupplier,supplierName,idContact ) VALUES ( 3,'Great Grains Restaurant Supply','' );
+
+INSERT INTO PizzaPicadilly.productSupplier ( idSupplier,supplierName,idContact ) VALUES ( 4,'Sankofa Exotic Foods','' );

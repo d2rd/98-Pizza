@@ -1,0 +1,43 @@
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',6,2,'?','?','Santa Fe','NM',5,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',7,2,'?','?','Salt Lake City','UT',1,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',9,8,'?','?','Mesa','AZ',6,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',0,3,'?','?','Vail','CO',7,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',1,8,'?','?','Santa Fe','NM',5,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',8,4,'?','?','Salt Lake City','UT',1,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',9,5,'?','?','Mesa','AZ',6,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',0,8,'?','?','Vail','CO',7,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',1,6,'?','?','Santa Fe','NM',5,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',6,2,'?','?','Salt Lake City','UT',1,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',7,7,'?','?','Mesa','AZ',6,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',8,8,'?','?','Vail','CO',7,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',9,8,'?','?','Santa Fe','NM',5,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',8,9,'?','?','Salt Lake City','UT',1,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',9,5,'?','?','Mesa','AZ',6,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',1,6,'?','?','Vail','CO',7,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',6,7,'?','?','Santa Fe','NM',5,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',2,8,'?','?','Orem','UT',7,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',8,9,'?','?','Mesa','AZ',6,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',3,0,'?','?','Vail','CO',7,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',7,1,'?','?','Santa Fe','NM',5,'' );
+
+INSERT INTO PizzaPicadilly.checkingAcct ( idcheckingAcct,bankNumber,acctNumber,acctHolderName,acctStreet,acctCity,acctState,acctZip,idCustomer ) VALUES ( '',4,2,'?','?','Salt Lake City','UT',1,'' );
