@@ -1,0 +1,9 @@
+CREATE TABLE `PizzaPicadilly`.`salesTax` (
+  `idsalesTax` INT NOT NULL AUTO_INCREMENT,
+  `stateName` VARCHAR(45) NOT NULL,
+  `stateAbbeviation` VARCHAR(2) NULL,
+  `stateTaxRate` DECIMAL(2,4) NULL,
+  `localTaxRate` DECIMAL(2,4) NULL,
+  `combinedTaxRate` DECIMAL(2,4) NULL,
+  `maxLocalTaxRate` DECIMAL(2,4) NULL,
+  PRIMARY KEY (`idsalesTax`));
